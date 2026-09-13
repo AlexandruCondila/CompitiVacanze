@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-light">
+
+    <!-- Container Bootstrap per centrare il contenuto -->
+    <div class="container text-center mt-5">
+        <h1 class="mb-4 text-primary">BOUNCING BALL GAME</h1>
+        <!-- pulsante strat/stop -->
+        <div class="mb-3">
+            <button id="start-stop-btn" class="btn btn-success btn-lg px-5 shadow-sm">Start</button>
+        </div>
+        <h4 class="mb-4">Rimbalzi: <span id="counter" class="badge bg-secondary">0</span></h4>
+        <!-- area di gioco -->
+        <div class="d-flex justify-content-center">
+            <div id="game-area" class="border border-3 border-dark bg-white shadow">
+                <div id="obstacle" class="rounded"></div>
+                <div id="ball" class="shadow-sm"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

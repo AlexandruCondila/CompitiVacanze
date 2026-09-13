@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 123456,
+    "Cliente": "gianni",
+    "Data": "2026-09-09T16:55:29.1937444+02:00",
+    "Stato": 0,
+    "Prodotti": [
+      {
+        "Nome": "cane",
+        "Quantita": 3,
+        "PrezzoUnitario": 21
+      }
+    ]
+  },
+  {
+    "Id": 123457,
+    "Cliente": "fsd",
+    "Data": "2026-09-13T20:58:52.2537261+02:00",
+    "Stato": 0,
+    "Prodotti": [
+      {
+        "Nome": "dfrgetrh",
+        "Quantita": 4,
+        "PrezzoUnitario": 324
+      }
+    ]
+  }
+]

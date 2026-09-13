@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\infrastructure\\repositories\\ordinejsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\ordinejsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\infrastructure\\mappers\\ordinepersistencemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mappers\\ordinepersistencemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D6544C-F628-4AAC-A011-3B5533C964F6}|GestioneOrdini\\GestioneOrdini.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\gestioneordini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D6544C-F628-4AAC-A011-3B5533C964F6}|GestioneOrdini\\GestioneOrdini.csproj|solutionrelative:gestioneordini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\infrastructure\\dto\\ordinepersistencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dto\\ordinepersistencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\application\\mappers\\ordinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|solutionrelative:application\\mappers\\ordinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\application\\usecases\\ordineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|solutionrelative:application\\usecases\\ordineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\application\\dto\\ordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|solutionrelative:application\\dto\\ordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\domain\\model\\entities\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|solutionrelative:domain\\model\\entities\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\infrastructure\\mappers\\prodottoordinepersistencemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mappers\\prodottoordinepersistencemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\application\\mappers\\prodottoordinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|solutionrelative:application\\mappers\\prodottoordinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\infrastructure\\dto\\prodottoordinepersistencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E3E188-A9D4-48C9-B7C4-1AB241055721}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dto\\prodottoordinepersistencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\application\\dto\\prodottoordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|solutionrelative:application\\dto\\prodottoordinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\application\\interfaces\\iordinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D644B0-979B-4256-8D4F-242E4E07AEC0}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iordinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\domain\\model\\enums\\statoordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|solutionrelative:domain\\model\\enums\\statoordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\domain\\model\\entities\\prodottoordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|solutionrelative:domain\\model\\entities\\prodottoordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|c:\\users\\inuka\\onedrive\\desktop\\gestioneordini\\domain\\model\\valueobjects\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F8CEA1-491E-42DF-88A5-BE6FDD94C24D}|Domain\\Domain.csproj|solutionrelative:domain\\model\\valueobjects\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdinePersistenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Dto\\OrdinePersistenceDto.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Dto\\OrdinePersistenceDto.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Dto\\OrdinePersistenceDto.cs",
+              "RelativeToolTip": "Infrastructure\\Dto\\OrdinePersistenceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:09:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdineMapper.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Mappers\\OrdineMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\OrdineMapper.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Mappers\\OrdineMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\OrdineMapper.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:45:27.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\GestioneOrdini\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneOrdini\\Program.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\GestioneOrdini\\Program.cs",
+              "RelativeToolTip": "GestioneOrdini\\Program.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAuwN4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:35:45.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdineService.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\UseCases\\OrdineService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\OrdineService.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\UseCases\\OrdineService.cs",
+              "RelativeToolTip": "Application\\UseCases\\OrdineService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:45:36.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdinePersistenceMapper.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Mappers\\OrdinePersistenceMapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappers\\OrdinePersistenceMapper.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Mappers\\OrdinePersistenceMapper.cs",
+              "RelativeToolTip": "Infrastructure\\Mappers\\OrdinePersistenceMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:11:02.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdineJsonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Repositories\\OrdineJsonRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OrdineJsonRepository.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Repositories\\OrdineJsonRepository.cs*",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OrdineJsonRepository.cs*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAewG8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:45:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdineDto.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Dto\\OrdineDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\OrdineDto.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Dto\\OrdineDto.cs",
+              "RelativeToolTip": "Application\\Dto\\OrdineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:44:53.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ordine.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\Entities\\Ordine.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Entities\\Ordine.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\Entities\\Ordine.cs",
+              "RelativeToolTip": "Domain\\Model\\Entities\\Ordine.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:43:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdottoOrdinePersistenceMapper.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Mappers\\ProdottoOrdinePersistenceMapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappers\\ProdottoOrdinePersistenceMapper.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Mappers\\ProdottoOrdinePersistenceMapper.cs",
+              "RelativeToolTip": "Infrastructure\\Mappers\\ProdottoOrdinePersistenceMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:11:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdottoOrdineMapper.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Mappers\\ProdottoOrdineMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\ProdottoOrdineMapper.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Mappers\\ProdottoOrdineMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\ProdottoOrdineMapper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:00:27.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdottoOrdinePersistenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Dto\\ProdottoOrdinePersistenceDto.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Dto\\ProdottoOrdinePersistenceDto.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Infrastructure\\Dto\\ProdottoOrdinePersistenceDto.cs",
+              "RelativeToolTip": "Infrastructure\\Dto\\ProdottoOrdinePersistenceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:09:02.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrdineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Interfaces\\IOrdineRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IOrdineRepository.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Interfaces\\IOrdineRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IOrdineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:45:18.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdottoOrdineDto.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Dto\\ProdottoOrdineDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ProdottoOrdineDto.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Application\\Dto\\ProdottoOrdineDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ProdottoOrdineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:45:01.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatoOrdine.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\Enums\\StatoOrdine.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Enums\\StatoOrdine.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\Enums\\StatoOrdine.cs",
+              "RelativeToolTip": "Domain\\Model\\Enums\\StatoOrdine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:44:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdottoOrdine.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\Entities\\ProdottoOrdine.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Entities\\ProdottoOrdine.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\Entities\\ProdottoOrdine.cs",
+              "RelativeToolTip": "Domain\\Model\\Entities\\ProdottoOrdine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:43:57.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\ValueObjects\\Cliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\ValueObjects\\Cliente.cs",
+              "ToolTip": "C:\\Users\\inuka\\OneDrive\\Desktop\\GestioneOrdini\\Domain\\Model\\ValueObjects\\Cliente.cs",
+              "RelativeToolTip": "Domain\\Model\\ValueObjects\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:44:32.214Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
